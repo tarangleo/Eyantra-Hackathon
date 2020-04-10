@@ -1,16 +1,5 @@
-# eyantra
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Eyantra-Hackathon
+TITLE:- FIGHT AGAINST CORONA
+Description:- This is an app which contains all the information regarding the crona virus.In this App there are 3 tabs contains information regarding the corona virus, the zone,and the appointment tab.
+In zone tab, people get the notifications when they comes under the area which contains no. of corona virus suspected which is called red zone.
+in appointment tab, people get their token no. when they go to test their crona virus.
