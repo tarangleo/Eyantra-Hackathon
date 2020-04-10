@@ -48,7 +48,7 @@ zoom: 5,
       });
 
     }
-    else()
+    else
     {
       showCupertinoModalPopup(context: context, builder: (BuildContext context){
         return Row(
@@ -165,7 +165,7 @@ zoom: 5,
               Row(
                 children: <Widget>[
                   Text(
-                      'PRESS THIS BUTTON',
+                      'PRESS THIS BUTTON TO KNOW DANGER ZONE',
                       style: TextStyle(
                         fontSize: 10,
                       )
