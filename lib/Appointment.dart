@@ -68,29 +68,9 @@ class _AppoinmentState extends State<Appoinment> {
 
           ],
         ),
-        SizedBox(height:30),
+        SizedBox(height:40),
 
-          Row(
-            children: <Widget>[
-              Text(
-                'REMAINING TIME:      ',
-                style: TextStyle(
-                    fontSize: 30,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.amber
-                ),
-              ),
-              Text(
-                '20:00 mins',
-                 style: TextStyle(
-                  fontSize: 20,
-                   color: Colors.amber
-                 ),
-              ),
-
-            ],
-          ),
-
+         
         SizedBox(height:210),
         Container(
 
