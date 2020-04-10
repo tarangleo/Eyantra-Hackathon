@@ -22,7 +22,7 @@ class _MapState extends State<Map> {
  Marker marker;
  Circle circle;
  static final CameraPosition intialloc = CameraPosition(target: LatLng(28.6793358,77.2983077),
-zoom: 5,
+zoom: 15,
  );
   Future<Uint8List> getMarker() async {
     ByteData byteData = await DefaultAssetBundle.of(context).load("assets/car_icon.png");
