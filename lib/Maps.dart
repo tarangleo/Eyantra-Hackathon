@@ -165,9 +165,9 @@ zoom: 5,
               Row(
                 children: <Widget>[
                   Text(
-                      'PRESS THIS BUTTON TO KNOW',
+                      'PRESS THIS BUTTON',
                       style: TextStyle(
-                        fontSize: 20,
+                        fontSize: 10,
                       )
                   ),
                   Container(
