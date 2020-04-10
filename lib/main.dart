@@ -47,7 +47,7 @@ class _HomeState extends State<Home> {
         appBar: AppBar(
           backgroundColor: Colors.grey[900],
           title: Text(
-            'Lets fight against cororna',
+            'Covid-19 Aid',
             style: TextStyle(
               fontSize: 20,
             ),
